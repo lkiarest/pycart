@@ -3,3 +3,5 @@ __pycache__
 .idea
 logs/*.log*
 settings.py
+settings.prod.py
+settings.dev.py

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# start webserver
+python manage.py runserver 0.0.0.0:8080
